@@ -2,3 +2,4 @@ This file documents everyone who has successfully used git to make an edit/contr
 Add your name/pseudonym below, along with a brief descirption of your process. Nice work!
 
 Contributions:
+* @justinmillar: First I forked PATH-Global-Health/git-practice into my personal Github, then I used the Windows Terminal to clone the repo to my computer, make edits in VSCode, and push back to Github. Then I submitted a pull request (PR) to the main repo. 

@@ -1,0 +1,4 @@
+This file documents everyone who has successfully used git to make an edit/contribution in the git-practice repo. 
+Add your name/pseudonym below, along with a brief descirption of your process. Nice work!
+
+Contributions:

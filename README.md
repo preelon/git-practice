@@ -4,6 +4,7 @@ The purpose of this repository is to practice git workflows within a "safe space
 ## Guidelines 
 * This is a **public repo**, so do not put anything here that shouldn't be widely shared!
 * If you want to experiment, try to [make a new branch](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging) first and limit size and amount of files and/or use subfolders to keep the repo relatively clean-ish
+* If you want to test different role permissions, reach out to @justinmillar to change admin roles
 
 ## Links
 * [Download git](https://git-scm.com/downloads)
